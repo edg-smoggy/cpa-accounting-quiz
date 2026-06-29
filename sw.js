@@ -1,4 +1,4 @@
-const CACHE_VERSION = "cpa-accounting-pwa-v1";
+const CACHE_VERSION = "cpa-multi-subject-pwa-v2";
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
@@ -31,7 +31,7 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys()
       .then((keys) => Promise.all(keys
-        .filter((key) => key.startsWith("cpa-accounting-pwa-") && !key.startsWith(CACHE_VERSION))
+        .filter((key) => (key.startsWith("cpa-accounting-pwa-") || key.startsWith("cpa-multi-subject-pwa-")) && !key.startsWith(CACHE_VERSION))
         .map((key) => caches.delete(key))))
       .then(() => self.clients.claim())
   );

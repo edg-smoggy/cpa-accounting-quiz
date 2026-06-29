@@ -1,7 +1,7 @@
 {
-  "name": "CPA 会计刷题",
-  "short_name": "CPA会计",
-  "description": "CPA 会计离线刷题题库",
+  "name": "CPA 刷题",
+  "short_name": "CPA题库",
+  "description": "CPA 多科目离线刷题题库",
   "lang": "zh-CN",
   "start_url": "./mobile.html",
   "scope": "./",
