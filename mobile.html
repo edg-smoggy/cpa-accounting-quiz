@@ -298,9 +298,11 @@
   /* actions */
   .acts{display:flex;gap:10px;margin-top:24px;align-items:center;flex-wrap:wrap;}
   .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:7px;
     padding:11px 20px;border-radius:11px;border:1px solid var(--line-2);background:var(--surface);
     color:var(--ink);font-size:14px;font-weight:600;transition:background var(--tap),border-color var(--tap),transform .1s;
   }
+  .btn svg{width:15px;height:15px;stroke:currentColor;flex-shrink:0;}
   .btn:hover{background:var(--surface-2);border-color:var(--ink-4);}
   .btn:active{transform:scale(.98);}
   .btn.fill{background:var(--accent);color:#fff;border-color:var(--accent);box-shadow:var(--shadow-md);}
