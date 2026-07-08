@@ -533,6 +533,23 @@ const questions = [{"id": "acc-0001", "number": 1, "subject": "会计", "chapter
     return savedPlace(raw.subject,raw.chapter||null,raw);
   }
   function placeText(p){return p?(p.subject+" · "+(p.chapter||"全章顺序")+" · 第 "+(p.idx+1)+" / "+p.total+" 题"):"";}
+  const warmSet=new Set();
+  function warmImages(srcs){
+    const todo=[];
+    (srcs||[]).forEach(src=>{if(src&&!warmSet.has(src)){warmSet.add(src);todo.push(src);}});
+    if(!todo.length)return;
+    const run=()=>todo.forEach(src=>{const img=new Image();img.decoding="async";img.loading="eager";img.src=src;});
+    if("requestIdleCallback" in window)requestIdleCallback(run,{timeout:500});
+    else setTimeout(run,80);
+  }
+  function warmQuizImages(){
+    const list=curList();if(!list.length)return;
+    const imgs=[], add=q=>{if(q&&q.questionImages)imgs.push(...q.questionImages);};
+    const q=list[idx];
+    if(q&&q.answerImages)imgs.push(...q.answerImages);
+    [idx+1,idx-1,idx+2].forEach(i=>add(list[i]));
+    warmImages(imgs);
+  }
 
   function curList(){
     if(view==="wrong")return questions.filter(q=>wrongSet.has(q.id));
@@ -720,7 +737,7 @@ const questions = [{"id": "acc-0001", "number": 1, "subject": "会计", "chapter
     if(isLast)h+='<button class="nav-arrow" data-act="finish" style="color:var(--accent-ink);border-color:var(--accent-line)">查看小结'+I.chev+'</button>';
     else h+='<button class="nav-arrow" data-act="next">下一题'+I.arrowR+'</button>';
     h+='</div></div>';
-    content.innerHTML=h;setTitle(vTitle());bind(q);
+    content.innerHTML=h;setTitle(vTitle());bind(q);warmQuizImages();
   }
 
   // ---- result ----
@@ -763,7 +780,7 @@ const questions = [{"id": "acc-0001", "number": 1, "subject": "会计", "chapter
   function imgBlock(imgs,label,emph){
     if(!imgs||!imgs.length)return emph?'<div class="imgs"><div class="img-miss">未提供'+esc(label)+'。</div></div>':"";
     let h='<div class="imgs"><div class="il">'+esc(label)+'</div><div class="ig">';
-    imgs.forEach(s=>h+='<img src="'+esc(s)+'" alt="'+esc(label)+'" loading="lazy" data-zoom>');
+    imgs.forEach(s=>h+='<img src="'+esc(s)+'" alt="'+esc(label)+'" loading="eager" decoding="async" data-zoom>');
     return h+'</div></div>';
   }
 

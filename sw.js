@@ -1,4 +1,4 @@
-const CACHE_VERSION = "cpa-multi-subject-pwa-v4";
+const CACHE_VERSION = "cpa-multi-subject-pwa-v5";
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
