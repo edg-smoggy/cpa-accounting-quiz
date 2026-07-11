@@ -37,7 +37,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|single|1|1"
   },
   {
     "id": "acc-0002",
@@ -79,7 +80,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|single|2|1"
   },
   {
     "id": "acc-0003",
@@ -117,7 +119,8 @@
       "assets/answers/a0003_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第一章总论|single|3|1"
   },
   {
     "id": "acc-0004",
@@ -159,7 +162,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|single|4|1"
   },
   {
     "id": "acc-0005",
@@ -197,7 +201,8 @@
       "assets/answers/a0005_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第一章总论|single|5|1"
   },
   {
     "id": "acc-0006",
@@ -238,7 +243,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|single|6|1"
   },
   {
     "id": "acc-0007",
@@ -276,7 +282,8 @@
       "assets/answers/a0007_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第一章总论|single|7|1"
   },
   {
     "id": "acc-0008",
@@ -316,7 +323,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|8|1"
   },
   {
     "id": "acc-0009",
@@ -362,7 +370,8 @@
       "assets/answers/a0009_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|9|1"
   },
   {
     "id": "acc-0010",
@@ -400,7 +409,8 @@
       "assets/answers/a0010_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|10|1"
   },
   {
     "id": "acc-0011",
@@ -444,7 +454,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|11|1"
   },
   {
     "id": "acc-0012",
@@ -501,7 +512,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|12|1"
   },
   {
     "id": "acc-0013",
@@ -543,7 +555,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|13|1"
   },
   {
     "id": "acc-0014",
@@ -595,7 +608,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|14|1"
   },
   {
     "id": "acc-0015",
@@ -639,7 +653,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第一章总论|multiple|15|1"
   },
   {
     "id": "acc-0016",
@@ -677,7 +692,8 @@
       "assets/answers/a0016_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二章存货|single|1|1"
   },
   {
     "id": "acc-0017",
@@ -717,7 +733,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|2|1"
   },
   {
     "id": "acc-0018",
@@ -757,7 +774,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|3|1"
   },
   {
     "id": "acc-0019",
@@ -801,7 +819,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|4|1"
   },
   {
     "id": "acc-0020",
@@ -841,7 +860,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|5|1"
   },
   {
     "id": "acc-0021",
@@ -881,7 +901,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|6|1"
   },
   {
     "id": "acc-0022",
@@ -921,7 +942,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|7|1"
   },
   {
     "id": "acc-0023",
@@ -961,7 +983,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|8|1"
   },
   {
     "id": "acc-0024",
@@ -1003,7 +1026,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|9|1"
   },
   {
     "id": "acc-0025",
@@ -1045,7 +1069,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|single|10|1"
   },
   {
     "id": "acc-0026",
@@ -1103,7 +1128,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|multiple|11|1"
   },
   {
     "id": "acc-0027",
@@ -1143,7 +1169,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|multiple|12|1"
   },
   {
     "id": "acc-0028",
@@ -1187,7 +1214,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二章存货|multiple|13|1"
   },
   {
     "id": "acc-0029",
@@ -1227,7 +1255,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|single|1|1"
   },
   {
     "id": "acc-0030",
@@ -1267,7 +1296,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|single|2|1"
   },
   {
     "id": "acc-0031",
@@ -1307,7 +1337,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|single|3|1"
   },
   {
     "id": "acc-0032",
@@ -1349,7 +1380,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|single|4|1"
   },
   {
     "id": "acc-0033",
@@ -1391,7 +1423,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|single|5|1"
   },
   {
     "id": "acc-0034",
@@ -1429,7 +1462,8 @@
       "assets/answers/a0034_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|6|1"
   },
   {
     "id": "acc-0035",
@@ -1469,7 +1503,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|7|1"
   },
   {
     "id": "acc-0036",
@@ -1519,7 +1554,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|8|1"
   },
   {
     "id": "acc-0037",
@@ -1559,7 +1595,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|9|1"
   },
   {
     "id": "acc-0038",
@@ -1599,7 +1636,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|10|1"
   },
   {
     "id": "acc-0039",
@@ -1641,7 +1679,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|11|1"
   },
   {
     "id": "acc-0040",
@@ -1694,7 +1733,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三章固定资产|multiple|12|1"
   },
   {
     "id": "acc-0041",
@@ -1734,7 +1774,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|1|1"
   },
   {
     "id": "acc-0042",
@@ -1774,7 +1815,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|2|1"
   },
   {
     "id": "acc-0043",
@@ -1816,7 +1858,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|3|1"
   },
   {
     "id": "acc-0044",
@@ -1857,7 +1900,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|4|1"
   },
   {
     "id": "acc-0045",
@@ -1897,7 +1941,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|5|1"
   },
   {
     "id": "acc-0046",
@@ -1937,7 +1982,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|6|1"
   },
   {
     "id": "acc-0047",
@@ -1979,7 +2025,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|single|7|1"
   },
   {
     "id": "acc-0048",
@@ -2017,7 +2064,8 @@
       "assets/answers/a0048_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|8|1"
   },
   {
     "id": "acc-0049",
@@ -2057,7 +2105,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|9|1"
   },
   {
     "id": "acc-0050",
@@ -2105,7 +2154,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|10|1"
   },
   {
     "id": "acc-0051",
@@ -2147,7 +2197,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|11|1"
   },
   {
     "id": "acc-0052",
@@ -2187,7 +2238,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|12|1"
   },
   {
     "id": "acc-0053",
@@ -2229,7 +2281,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|13|1"
   },
   {
     "id": "acc-0054",
@@ -2273,7 +2326,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第四章无形资产|multiple|2|1"
   },
   {
     "id": "acc-0055",
@@ -2313,7 +2367,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|single|1|1"
   },
   {
     "id": "acc-0056",
@@ -2354,7 +2409,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|single|2|1"
   },
   {
     "id": "acc-0057",
@@ -2392,7 +2448,8 @@
       "assets/answers/a0057_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|single|3|1"
   },
   {
     "id": "acc-0058",
@@ -2434,7 +2491,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|single|4|1"
   },
   {
     "id": "acc-0059",
@@ -2474,7 +2532,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|single|5|1"
   },
   {
     "id": "acc-0060",
@@ -2522,7 +2581,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|6|1"
   },
   {
     "id": "acc-0061",
@@ -2566,7 +2626,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|7|1"
   },
   {
     "id": "acc-0062",
@@ -2606,7 +2667,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|8|1"
   },
   {
     "id": "acc-0063",
@@ -2644,7 +2706,8 @@
       "assets/answers/a0063_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|9|1"
   },
   {
     "id": "acc-0064",
@@ -2692,7 +2755,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|10|1"
   },
   {
     "id": "acc-0065",
@@ -2736,7 +2800,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|11|1"
   },
   {
     "id": "acc-0066",
@@ -2776,7 +2841,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|12|1"
   },
   {
     "id": "acc-0067",
@@ -2820,7 +2886,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第五章投资性房地产|multiple|13|1"
   },
   {
     "id": "acc-0068",
@@ -2860,7 +2927,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|1|1"
   },
   {
     "id": "acc-0069",
@@ -2900,7 +2968,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|2|1"
   },
   {
     "id": "acc-0070",
@@ -2940,7 +3009,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|3|1"
   },
   {
     "id": "acc-0071",
@@ -2980,7 +3050,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|4|1"
   },
   {
     "id": "acc-0072",
@@ -3022,7 +3093,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|5|1"
   },
   {
     "id": "acc-0073",
@@ -3062,7 +3134,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|6|1"
   },
   {
     "id": "acc-0074",
@@ -3104,7 +3177,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|7|1"
   },
   {
     "id": "acc-0075",
@@ -3146,7 +3220,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|8|1"
   },
   {
     "id": "acc-0076",
@@ -3186,7 +3261,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|9|1"
   },
   {
     "id": "acc-0077",
@@ -3228,7 +3304,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|10|1"
   },
   {
     "id": "acc-0078",
@@ -3270,7 +3347,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|11|1"
   },
   {
     "id": "acc-0079",
@@ -3312,7 +3390,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|12|1"
   },
   {
     "id": "acc-0080",
@@ -3352,7 +3431,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|13|1"
   },
   {
     "id": "acc-0081",
@@ -3394,7 +3474,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|14|1"
   },
   {
     "id": "acc-0082",
@@ -3434,7 +3515,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|15|1"
   },
   {
     "id": "acc-0083",
@@ -3476,7 +3558,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|16|1"
   },
   {
     "id": "acc-0084",
@@ -3516,7 +3599,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|17|1"
   },
   {
     "id": "acc-0085",
@@ -3558,7 +3642,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|18|1"
   },
   {
     "id": "acc-0086",
@@ -3602,7 +3687,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|single|19|1"
   },
   {
     "id": "acc-0087",
@@ -3644,7 +3730,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|20|1"
   },
   {
     "id": "acc-0088",
@@ -3686,7 +3773,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|21|1"
   },
   {
     "id": "acc-0089",
@@ -3726,7 +3814,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|22|1"
   },
   {
     "id": "acc-0090",
@@ -3768,7 +3857,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|23|1"
   },
   {
     "id": "acc-0091",
@@ -3808,7 +3898,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|24|1"
   },
   {
     "id": "acc-0092",
@@ -3850,7 +3941,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|25|1"
   },
   {
     "id": "acc-0093",
@@ -3894,7 +3986,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|26|1"
   },
   {
     "id": "acc-0094",
@@ -3938,7 +4031,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|27|1"
   },
   {
     "id": "acc-0095",
@@ -3990,7 +4084,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|28|1"
   },
   {
     "id": "acc-0096",
@@ -4040,7 +4135,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|29|1"
   },
   {
     "id": "acc-0097",
@@ -4082,7 +4178,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|30|1"
   },
   {
     "id": "acc-0098",
@@ -4124,7 +4221,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|31|1"
   },
   {
     "id": "acc-0099",
@@ -4164,7 +4262,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|32|1"
   },
   {
     "id": "acc-0100",
@@ -4210,7 +4309,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|33|1"
   },
   {
     "id": "acc-0101",
@@ -4255,7 +4355,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第六章长期股权投资与合营安排|multiple|34|1"
   },
   {
     "id": "acc-0102",
@@ -4293,7 +4394,8 @@
       "assets/answers/a0102_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|1|1"
   },
   {
     "id": "acc-0103",
@@ -4333,7 +4435,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|2|1"
   },
   {
     "id": "acc-0104",
@@ -4373,7 +4476,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|3|1"
   },
   {
     "id": "acc-0105",
@@ -4415,7 +4519,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|4|1"
   },
   {
     "id": "acc-0106",
@@ -4455,7 +4560,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|5|1"
   },
   {
     "id": "acc-0107",
@@ -4495,7 +4601,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|6|1"
   },
   {
     "id": "acc-0108",
@@ -4539,7 +4646,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|single|7|1"
   },
   {
     "id": "acc-0109",
@@ -4579,7 +4687,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|8|1"
   },
   {
     "id": "acc-0110",
@@ -4629,7 +4738,8 @@
       "assets/answers/a0110_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|9|1"
   },
   {
     "id": "acc-0111",
@@ -4669,7 +4779,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|10|1"
   },
   {
     "id": "acc-0112",
@@ -4711,7 +4822,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|11|1"
   },
   {
     "id": "acc-0113",
@@ -4765,7 +4877,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|12|1"
   },
   {
     "id": "acc-0114",
@@ -4809,7 +4922,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第七章资产减值|multiple|13|1"
   },
   {
     "id": "acc-0115",
@@ -4849,7 +4963,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|single|1|1"
   },
   {
     "id": "acc-0116",
@@ -4889,7 +5004,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|single|2|1"
   },
   {
     "id": "acc-0117",
@@ -4929,7 +5045,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|single|3|1"
   },
   {
     "id": "acc-0118",
@@ -4971,7 +5088,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|single|4|1"
   },
   {
     "id": "acc-0119",
@@ -5021,7 +5139,8 @@
       "assets/answers/a0119_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第八章负债|single|5|1"
   },
   {
     "id": "acc-0120",
@@ -5062,7 +5181,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|multiple|6|1"
   },
   {
     "id": "acc-0121",
@@ -5100,7 +5220,8 @@
       "assets/answers/a0121_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第八章负债|multiple|7|1"
   },
   {
     "id": "acc-0122",
@@ -5140,7 +5261,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|multiple|8|1"
   },
   {
     "id": "acc-0123",
@@ -5191,7 +5313,8 @@
     "flags": [
       "题目跨页",
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第八章负债|multiple|9|1"
   },
   {
     "id": "acc-0124",
@@ -5229,7 +5352,8 @@
       "assets/answers/a0124_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|1|1"
   },
   {
     "id": "acc-0125",
@@ -5269,7 +5393,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|2|1"
   },
   {
     "id": "acc-0126",
@@ -5309,7 +5434,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|3|1"
   },
   {
     "id": "acc-0127",
@@ -5351,7 +5477,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|4|1"
   },
   {
     "id": "acc-0128",
@@ -5391,7 +5518,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|5|1"
   },
   {
     "id": "acc-0129",
@@ -5433,7 +5561,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|single|6|1"
   },
   {
     "id": "acc-0130",
@@ -5474,7 +5603,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|7|1"
   },
   {
     "id": "acc-0131",
@@ -5514,7 +5644,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|8|1"
   },
   {
     "id": "acc-0132",
@@ -5552,7 +5683,8 @@
       "assets/answers/a0132_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|9|1"
   },
   {
     "id": "acc-0133",
@@ -5592,7 +5724,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|10|1"
   },
   {
     "id": "acc-0134",
@@ -5632,7 +5765,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|11|1"
   },
   {
     "id": "acc-0135",
@@ -5676,7 +5810,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第九章职工薪酬|multiple|12|1"
   },
   {
     "id": "acc-0136",
@@ -5716,7 +5851,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|1|1"
   },
   {
     "id": "acc-0137",
@@ -5756,7 +5892,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|2|1"
   },
   {
     "id": "acc-0138",
@@ -5796,7 +5933,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|3|1"
   },
   {
     "id": "acc-0139",
@@ -5836,7 +5974,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|4|1"
   },
   {
     "id": "acc-0140",
@@ -5878,7 +6017,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|5|1"
   },
   {
     "id": "acc-0141",
@@ -5920,7 +6060,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|6|1"
   },
   {
     "id": "acc-0142",
@@ -5962,7 +6103,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|7|1"
   },
   {
     "id": "acc-0143",
@@ -6004,7 +6146,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|8|1"
   },
   {
     "id": "acc-0144",
@@ -6044,7 +6187,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|9|1"
   },
   {
     "id": "acc-0145",
@@ -6083,7 +6227,8 @@
       "答案跨页",
       "选项不足",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|10|1"
   },
   {
     "id": "acc-0146",
@@ -6125,7 +6270,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|single|11|1"
   },
   {
     "id": "acc-0147",
@@ -6165,7 +6311,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|12|1"
   },
   {
     "id": "acc-0148",
@@ -6205,7 +6352,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|13|1"
   },
   {
     "id": "acc-0149",
@@ -6245,7 +6393,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|14|1"
   },
   {
     "id": "acc-0150",
@@ -6283,7 +6432,8 @@
       "assets/answers/a0150_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|15|1"
   },
   {
     "id": "acc-0151",
@@ -6325,7 +6475,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|16|1"
   },
   {
     "id": "acc-0152",
@@ -6365,7 +6516,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|17|1"
   },
   {
     "id": "acc-0153",
@@ -6409,7 +6561,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|18|1"
   },
   {
     "id": "acc-0154",
@@ -6449,7 +6602,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|19|1"
   },
   {
     "id": "acc-0155",
@@ -6493,7 +6647,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十章股份支付|multiple|20|1"
   },
   {
     "id": "acc-0156",
@@ -6533,7 +6688,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|1|1"
   },
   {
     "id": "acc-0157",
@@ -6573,7 +6729,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|2|1"
   },
   {
     "id": "acc-0158",
@@ -6615,7 +6772,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|3|1"
   },
   {
     "id": "acc-0159",
@@ -6657,7 +6815,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|4|1"
   },
   {
     "id": "acc-0160",
@@ -6697,7 +6856,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|5|1"
   },
   {
     "id": "acc-0161",
@@ -6739,7 +6899,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|6|1"
   },
   {
     "id": "acc-0162",
@@ -6781,7 +6942,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|7|1"
   },
   {
     "id": "acc-0163",
@@ -6823,7 +6985,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|single|8|1"
   },
   {
     "id": "acc-0164",
@@ -6863,7 +7026,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|multiple|9|1"
   },
   {
     "id": "acc-0165",
@@ -6903,7 +7067,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|multiple|10|1"
   },
   {
     "id": "acc-0166",
@@ -6948,7 +7113,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十一章借款费用|multiple|11|1"
   },
   {
     "id": "acc-0167",
@@ -6988,7 +7154,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|1|1"
   },
   {
     "id": "acc-0168",
@@ -7028,7 +7195,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|2|1"
   },
   {
     "id": "acc-0169",
@@ -7068,7 +7236,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|3|1"
   },
   {
     "id": "acc-0170",
@@ -7109,7 +7278,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|4|1"
   },
   {
     "id": "acc-0171",
@@ -7149,7 +7319,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|5|1"
   },
   {
     "id": "acc-0172",
@@ -7189,7 +7360,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|single|6|1"
   },
   {
     "id": "acc-0173",
@@ -7235,7 +7407,8 @@
       "assets/answers/a0173_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|7|1"
   },
   {
     "id": "acc-0174",
@@ -7275,7 +7448,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|8|1"
   },
   {
     "id": "acc-0175",
@@ -7315,7 +7489,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|9|1"
   },
   {
     "id": "acc-0176",
@@ -7355,7 +7530,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|10|1"
   },
   {
     "id": "acc-0177",
@@ -7395,7 +7571,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|11|1"
   },
   {
     "id": "acc-0178",
@@ -7439,7 +7616,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十二章或有事项|multiple|12|1"
   },
   {
     "id": "acc-0179",
@@ -7479,7 +7657,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|1|1"
   },
   {
     "id": "acc-0180",
@@ -7517,7 +7696,8 @@
       "assets/answers/a0180_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|2|1"
   },
   {
     "id": "acc-0181",
@@ -7557,7 +7737,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|3|1"
   },
   {
     "id": "acc-0182",
@@ -7599,7 +7780,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|4|1"
   },
   {
     "id": "acc-0183",
@@ -7641,7 +7823,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|5|1"
   },
   {
     "id": "acc-0184",
@@ -7681,7 +7864,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|6|1"
   },
   {
     "id": "acc-0185",
@@ -7723,7 +7907,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|7|1"
   },
   {
     "id": "acc-0186",
@@ -7761,7 +7946,8 @@
       "assets/answers/a0186_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|8|1"
   },
   {
     "id": "acc-0187",
@@ -7802,7 +7988,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|9|1"
   },
   {
     "id": "acc-0188",
@@ -7842,7 +8029,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|10|1"
   },
   {
     "id": "acc-0189",
@@ -7884,7 +8072,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|11|1"
   },
   {
     "id": "acc-0190",
@@ -7926,7 +8115,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|12|1"
   },
   {
     "id": "acc-0191",
@@ -7966,7 +8156,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|13|1"
   },
   {
     "id": "acc-0192",
@@ -8006,7 +8197,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|14|1"
   },
   {
     "id": "acc-0193",
@@ -8046,7 +8238,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|15|1"
   },
   {
     "id": "acc-0194",
@@ -8088,7 +8281,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|single|16|1"
   },
   {
     "id": "acc-0195",
@@ -8130,7 +8324,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|17|1"
   },
   {
     "id": "acc-0196",
@@ -8168,7 +8363,8 @@
       "assets/answers/a0196_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|18|1"
   },
   {
     "id": "acc-0197",
@@ -8214,7 +8410,8 @@
       "assets/answers/a0197_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|19|1"
   },
   {
     "id": "acc-0198",
@@ -8254,7 +8451,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|20|1"
   },
   {
     "id": "acc-0199",
@@ -8292,7 +8490,8 @@
       "assets/answers/a0199_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|21|1"
   },
   {
     "id": "acc-0200",
@@ -8332,7 +8531,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|22|1"
   },
   {
     "id": "acc-0201",
@@ -8372,7 +8572,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|23|1"
   },
   {
     "id": "acc-0202",
@@ -8413,7 +8614,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|24|1"
   },
   {
     "id": "acc-0203",
@@ -8453,7 +8655,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|25|1"
   },
   {
     "id": "acc-0204",
@@ -8495,7 +8698,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|26|1"
   },
   {
     "id": "acc-0205",
@@ -8537,7 +8741,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|27|1"
   },
   {
     "id": "acc-0206",
@@ -8577,7 +8782,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|28|1"
   },
   {
     "id": "acc-0207",
@@ -8619,7 +8825,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|29|1"
   },
   {
     "id": "acc-0208",
@@ -8669,7 +8876,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|30|1"
   },
   {
     "id": "acc-0209",
@@ -8721,7 +8929,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|31|1"
   },
   {
     "id": "acc-0210",
@@ -8764,7 +8973,8 @@
     "flags": [
       "题目跨页",
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十三章金融工具与保险合同|multiple|32|1"
   },
   {
     "id": "acc-0211",
@@ -8804,7 +9014,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|1|1"
   },
   {
     "id": "acc-0212",
@@ -8844,7 +9055,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|2|1"
   },
   {
     "id": "acc-0213",
@@ -8885,7 +9097,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|3|1"
   },
   {
     "id": "acc-0214",
@@ -8925,7 +9138,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|4|1"
   },
   {
     "id": "acc-0215",
@@ -8965,7 +9179,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|5|1"
   },
   {
     "id": "acc-0216",
@@ -9005,7 +9220,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|6|1"
   },
   {
     "id": "acc-0217",
@@ -9045,7 +9261,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|7|1"
   },
   {
     "id": "acc-0218",
@@ -9085,7 +9302,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|8|1"
   },
   {
     "id": "acc-0219",
@@ -9125,7 +9343,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|9|1"
   },
   {
     "id": "acc-0220",
@@ -9165,7 +9384,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|10|1"
   },
   {
     "id": "acc-0221",
@@ -9207,7 +9427,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|11|1"
   },
   {
     "id": "acc-0222",
@@ -9247,7 +9468,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|single|12|1"
   },
   {
     "id": "acc-0223",
@@ -9287,7 +9509,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|13|1"
   },
   {
     "id": "acc-0224",
@@ -9344,7 +9567,8 @@
     "matched": true,
     "flags": [
       "题目跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|14|1"
   },
   {
     "id": "acc-0225",
@@ -9384,7 +9608,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|15|1"
   },
   {
     "id": "acc-0226",
@@ -9433,7 +9658,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|16|1"
   },
   {
     "id": "acc-0227",
@@ -9485,7 +9711,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|17|1"
   },
   {
     "id": "acc-0228",
@@ -9525,7 +9752,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|18|1"
   },
   {
     "id": "acc-0229",
@@ -9567,7 +9795,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|19|1"
   },
   {
     "id": "acc-0230",
@@ -9609,7 +9838,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|20|1"
   },
   {
     "id": "acc-0231",
@@ -9649,7 +9879,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|21|1"
   },
   {
     "id": "acc-0232",
@@ -9689,7 +9920,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|22|1"
   },
   {
     "id": "acc-0233",
@@ -9733,7 +9965,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十四章租赁|multiple|23|1"
   },
   {
     "id": "acc-0234",
@@ -9773,7 +10006,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、|single|1|1"
   },
   {
     "id": "acc-0235",
@@ -9813,7 +10047,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、|single|2|1"
   },
   {
     "id": "acc-0236",
@@ -9857,7 +10092,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、|single|3|1"
   },
   {
     "id": "acc-0237",
@@ -9897,7 +10133,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|single|4|1"
   },
   {
     "id": "acc-0238",
@@ -9937,7 +10174,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|single|5|1"
   },
   {
     "id": "acc-0239",
@@ -9981,7 +10219,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|single|6|1"
   },
   {
     "id": "acc-0240",
@@ -10022,7 +10261,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|7|1"
   },
   {
     "id": "acc-0241",
@@ -10070,7 +10310,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|8|1"
   },
   {
     "id": "acc-0242",
@@ -10110,7 +10351,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|9|1"
   },
   {
     "id": "acc-0243",
@@ -10164,7 +10406,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|10|1"
   },
   {
     "id": "acc-0244",
@@ -10204,7 +10447,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|11|1"
   },
   {
     "id": "acc-0245",
@@ -10248,7 +10492,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十五章持有待售的非流动资产、处置组和终止经营|multiple|12|1"
   },
   {
     "id": "acc-0246",
@@ -10288,7 +10533,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|single|1|1"
   },
   {
     "id": "acc-0247",
@@ -10328,7 +10574,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|single|2|1"
   },
   {
     "id": "acc-0248",
@@ -10366,7 +10613,8 @@
       "assets/answers/a0248_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|single|3|1"
   },
   {
     "id": "acc-0249",
@@ -10404,7 +10652,8 @@
       "assets/answers/a0249_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|single|4|1"
   },
   {
     "id": "acc-0250",
@@ -10446,7 +10695,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|single|5|1"
   },
   {
     "id": "acc-0251",
@@ -10484,7 +10734,8 @@
       "assets/answers/a0251_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|multiple|6|1"
   },
   {
     "id": "acc-0252",
@@ -10524,7 +10775,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|multiple|7|1"
   },
   {
     "id": "acc-0253",
@@ -10579,7 +10831,8 @@
     "flags": [
       "题目跨页",
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十六章所有者权益|multiple|8|1"
   },
   {
     "id": "acc-0254",
@@ -10619,7 +10872,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|1|1"
   },
   {
     "id": "acc-0255",
@@ -10659,7 +10913,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|2|1"
   },
   {
     "id": "acc-0256",
@@ -10701,7 +10956,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|3|1"
   },
   {
     "id": "acc-0257",
@@ -10741,7 +10997,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|4|1"
   },
   {
     "id": "acc-0258",
@@ -10781,7 +11038,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|5|1"
   },
   {
     "id": "acc-0259",
@@ -10823,7 +11081,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|6|1"
   },
   {
     "id": "acc-0260",
@@ -10861,7 +11120,8 @@
       "assets/answers/a0260_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|7|1"
   },
   {
     "id": "acc-0261",
@@ -10901,7 +11161,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|8|1"
   },
   {
     "id": "acc-0262",
@@ -10943,7 +11204,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|9|1"
   },
   {
     "id": "acc-0263",
@@ -10985,7 +11247,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|10|1"
   },
   {
     "id": "acc-0264",
@@ -11025,7 +11288,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|11|1"
   },
   {
     "id": "acc-0265",
@@ -11067,7 +11331,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|12|1"
   },
   {
     "id": "acc-0266",
@@ -11109,7 +11374,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|13|1"
   },
   {
     "id": "acc-0267",
@@ -11149,7 +11415,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|14|1"
   },
   {
     "id": "acc-0268",
@@ -11189,7 +11456,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|15|1"
   },
   {
     "id": "acc-0269",
@@ -11231,7 +11499,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|single|16|1"
   },
   {
     "id": "acc-0270",
@@ -11273,7 +11542,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|17|1"
   },
   {
     "id": "acc-0271",
@@ -11321,7 +11591,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|18|1"
   },
   {
     "id": "acc-0272",
@@ -11363,7 +11634,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|19|1"
   },
   {
     "id": "acc-0273",
@@ -11403,7 +11675,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|20|1"
   },
   {
     "id": "acc-0274",
@@ -11445,7 +11718,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|21|1"
   },
   {
     "id": "acc-0275",
@@ -11497,7 +11771,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|22|1"
   },
   {
     "id": "acc-0276",
@@ -11537,7 +11812,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|23|1"
   },
   {
     "id": "acc-0277",
@@ -11577,7 +11853,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|24|1"
   },
   {
     "id": "acc-0278",
@@ -11617,7 +11894,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|25|1"
   },
   {
     "id": "acc-0279",
@@ -11657,7 +11935,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|26|1"
   },
   {
     "id": "acc-0280",
@@ -11697,7 +11976,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|27|1"
   },
   {
     "id": "acc-0281",
@@ -11741,7 +12021,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|28|1"
   },
   {
     "id": "acc-0282",
@@ -11785,7 +12066,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|29|1"
   },
   {
     "id": "acc-0283",
@@ -11825,7 +12107,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|30|1"
   },
   {
     "id": "acc-0284",
@@ -11867,7 +12150,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|31|1"
   },
   {
     "id": "acc-0285",
@@ -11907,7 +12191,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|32|1"
   },
   {
     "id": "acc-0286",
@@ -11951,7 +12236,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|33|1"
   },
   {
     "id": "acc-0287",
@@ -11991,7 +12277,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|34|1"
   },
   {
     "id": "acc-0288",
@@ -12033,7 +12320,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|35|1"
   },
   {
     "id": "acc-0289",
@@ -12075,7 +12363,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|36|1"
   },
   {
     "id": "acc-0290",
@@ -12115,7 +12404,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|37|1"
   },
   {
     "id": "acc-0291",
@@ -12160,7 +12450,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十七章收入、费用和利润|multiple|38|1"
   },
   {
     "id": "acc-0292",
@@ -12200,7 +12491,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|1|1"
   },
   {
     "id": "acc-0293",
@@ -12240,7 +12532,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|2|1"
   },
   {
     "id": "acc-0294",
@@ -12280,7 +12573,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|3|1"
   },
   {
     "id": "acc-0295",
@@ -12320,7 +12614,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|4|1"
   },
   {
     "id": "acc-0296",
@@ -12361,7 +12656,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|5|1"
   },
   {
     "id": "acc-0297",
@@ -12401,7 +12697,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|6|1"
   },
   {
     "id": "acc-0298",
@@ -12441,7 +12738,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|single|7|1"
   },
   {
     "id": "acc-0299",
@@ -12494,7 +12792,8 @@
     "matched": true,
     "flags": [
       "题目跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|8|1"
   },
   {
     "id": "acc-0300",
@@ -12532,7 +12831,8 @@
       "assets/answers/a0300_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|9|1"
   },
   {
     "id": "acc-0301",
@@ -12572,7 +12872,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|10|1"
   },
   {
     "id": "acc-0302",
@@ -12614,7 +12915,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|11|1"
   },
   {
     "id": "acc-0303",
@@ -12654,7 +12956,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|12|1"
   },
   {
     "id": "acc-0304",
@@ -12694,7 +12997,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|13|1"
   },
   {
     "id": "acc-0305",
@@ -12734,7 +13038,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|14|1"
   },
   {
     "id": "acc-0306",
@@ -12776,7 +13081,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|15|1"
   },
   {
     "id": "acc-0307",
@@ -12820,7 +13126,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十八章政府补助|multiple|16|1"
   },
   {
     "id": "acc-0308",
@@ -12858,7 +13165,8 @@
       "assets/answers/a0308_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|1|1"
   },
   {
     "id": "acc-0309",
@@ -12898,7 +13206,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|2|1"
   },
   {
     "id": "acc-0310",
@@ -12938,7 +13247,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|3|1"
   },
   {
     "id": "acc-0311",
@@ -12978,7 +13288,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|4|1"
   },
   {
     "id": "acc-0312",
@@ -13020,7 +13331,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|5|1"
   },
   {
     "id": "acc-0313",
@@ -13060,7 +13372,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|6|1"
   },
   {
     "id": "acc-0314",
@@ -13100,7 +13413,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|7|1"
   },
   {
     "id": "acc-0315",
@@ -13140,7 +13454,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|8|1"
   },
   {
     "id": "acc-0316",
@@ -13182,7 +13497,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|9|1"
   },
   {
     "id": "acc-0317",
@@ -13222,7 +13538,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|10|1"
   },
   {
     "id": "acc-0318",
@@ -13262,7 +13579,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|11|1"
   },
   {
     "id": "acc-0319",
@@ -13304,7 +13622,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|12|1"
   },
   {
     "id": "acc-0320",
@@ -13344,7 +13663,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|13|1"
   },
   {
     "id": "acc-0321",
@@ -13384,7 +13704,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|single|14|1"
   },
   {
     "id": "acc-0322",
@@ -13428,7 +13749,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|15|1"
   },
   {
     "id": "acc-0323",
@@ -13468,7 +13790,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|16|1"
   },
   {
     "id": "acc-0324",
@@ -13508,7 +13831,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|17|1"
   },
   {
     "id": "acc-0325",
@@ -13550,7 +13874,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|18|1"
   },
   {
     "id": "acc-0326",
@@ -13592,7 +13917,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|19|1"
   },
   {
     "id": "acc-0327",
@@ -13632,7 +13958,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|20|1"
   },
   {
     "id": "acc-0328",
@@ -13674,7 +14001,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|21|1"
   },
   {
     "id": "acc-0329",
@@ -13716,7 +14044,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|22|1"
   },
   {
     "id": "acc-0330",
@@ -13758,7 +14087,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|23|1"
   },
   {
     "id": "acc-0331",
@@ -13800,7 +14130,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|24|1"
   },
   {
     "id": "acc-0332",
@@ -13840,7 +14171,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|25|1"
   },
   {
     "id": "acc-0333",
@@ -13880,7 +14212,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|26|1"
   },
   {
     "id": "acc-0334",
@@ -13922,7 +14255,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|27|1"
   },
   {
     "id": "acc-0335",
@@ -13981,7 +14315,8 @@
     "flags": [
       "题目跨页",
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第十九章所得税|multiple|28|1"
   },
   {
     "id": "acc-0336",
@@ -14021,7 +14356,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|1|1"
   },
   {
     "id": "acc-0337",
@@ -14061,7 +14397,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|2|1"
   },
   {
     "id": "acc-0338",
@@ -14101,7 +14438,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|3|1"
   },
   {
     "id": "acc-0339",
@@ -14141,7 +14479,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|4|1"
   },
   {
     "id": "acc-0340",
@@ -14183,7 +14522,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|5|1"
   },
   {
     "id": "acc-0341",
@@ -14223,7 +14563,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|6|1"
   },
   {
     "id": "acc-0342",
@@ -14263,7 +14604,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|7|1"
   },
   {
     "id": "acc-0343",
@@ -14303,7 +14645,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|8|1"
   },
   {
     "id": "acc-0344",
@@ -14347,7 +14690,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|single|9|1"
   },
   {
     "id": "acc-0345",
@@ -14387,7 +14731,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|multiple|10|1"
   },
   {
     "id": "acc-0346",
@@ -14429,7 +14774,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|multiple|11|1"
   },
   {
     "id": "acc-0347",
@@ -14469,7 +14815,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|multiple|12|1"
   },
   {
     "id": "acc-0348",
@@ -14509,7 +14856,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|multiple|13|1"
   },
   {
     "id": "acc-0349",
@@ -14553,7 +14901,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十章非货币性资产交换|multiple|14|1"
   },
   {
     "id": "acc-0350",
@@ -14593,7 +14942,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|1|1"
   },
   {
     "id": "acc-0351",
@@ -14633,7 +14983,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|2|1"
   },
   {
     "id": "acc-0352",
@@ -14675,7 +15026,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|3|1"
   },
   {
     "id": "acc-0353",
@@ -14713,7 +15065,8 @@
       "assets/answers/a0353_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|4|1"
   },
   {
     "id": "acc-0354",
@@ -14753,7 +15106,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|5|1"
   },
   {
     "id": "acc-0355",
@@ -14793,7 +15147,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|6|1"
   },
   {
     "id": "acc-0356",
@@ -14835,7 +15190,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|7|1"
   },
   {
     "id": "acc-0357",
@@ -14875,7 +15231,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|8|1"
   },
   {
     "id": "acc-0358",
@@ -14919,7 +15276,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|9|1"
   },
   {
     "id": "acc-0359",
@@ -14959,7 +15317,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|10|1"
   },
   {
     "id": "acc-0360",
@@ -15001,7 +15360,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|11|1"
   },
   {
     "id": "acc-0361",
@@ -15041,7 +15401,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|12|1"
   },
   {
     "id": "acc-0362",
@@ -15085,7 +15446,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|single|13|1"
   },
   {
     "id": "acc-0363",
@@ -15123,7 +15485,8 @@
       "assets/answers/a0363_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|14|1"
   },
   {
     "id": "acc-0364",
@@ -15163,7 +15526,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|15|1"
   },
   {
     "id": "acc-0365",
@@ -15203,7 +15567,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|16|1"
   },
   {
     "id": "acc-0366",
@@ -15247,7 +15612,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|17|1"
   },
   {
     "id": "acc-0367",
@@ -15287,7 +15653,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|18|1"
   },
   {
     "id": "acc-0368",
@@ -15331,7 +15698,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十一章债务重组|multiple|19|1"
   },
   {
     "id": "acc-0369",
@@ -15371,7 +15739,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|1|1"
   },
   {
     "id": "acc-0370",
@@ -15411,7 +15780,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|2|1"
   },
   {
     "id": "acc-0371",
@@ -15451,7 +15821,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|3|1"
   },
   {
     "id": "acc-0372",
@@ -15493,7 +15864,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|4|1"
   },
   {
     "id": "acc-0373",
@@ -15535,7 +15907,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|5|1"
   },
   {
     "id": "acc-0374",
@@ -15575,7 +15948,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|6|1"
   },
   {
     "id": "acc-0375",
@@ -15615,7 +15989,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|7|1"
   },
   {
     "id": "acc-0376",
@@ -15659,7 +16034,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|8|1"
   },
   {
     "id": "acc-0377",
@@ -15699,7 +16075,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|single|9|1"
   },
   {
     "id": "acc-0378",
@@ -15749,7 +16126,8 @@
       "assets/answers/a0378_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|10|1"
   },
   {
     "id": "acc-0379",
@@ -15789,7 +16167,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|11|1"
   },
   {
     "id": "acc-0380",
@@ -15831,7 +16210,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|12|1"
   },
   {
     "id": "acc-0381",
@@ -15879,7 +16259,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|13|1"
   },
   {
     "id": "acc-0382",
@@ -15931,7 +16312,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|14|1"
   },
   {
     "id": "acc-0383",
@@ -15973,7 +16355,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|15|1"
   },
   {
     "id": "acc-0384",
@@ -16013,7 +16396,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|16|1"
   },
   {
     "id": "acc-0385",
@@ -16057,7 +16441,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十二章外币折算|multiple|17|1"
   },
   {
     "id": "acc-0386",
@@ -16097,7 +16482,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|1|1"
   },
   {
     "id": "acc-0387",
@@ -16137,7 +16523,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|2|1"
   },
   {
     "id": "acc-0388",
@@ -16179,7 +16566,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|3|1"
   },
   {
     "id": "acc-0389",
@@ -16221,7 +16609,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|4|1"
   },
   {
     "id": "acc-0390",
@@ -16259,7 +16648,8 @@
       "assets/answers/a0390_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|5|1"
   },
   {
     "id": "acc-0391",
@@ -16299,7 +16689,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|6|1"
   },
   {
     "id": "acc-0392",
@@ -16339,7 +16730,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|7|1"
   },
   {
     "id": "acc-0393",
@@ -16377,7 +16769,8 @@
       "assets/answers/a0393_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|8|1"
   },
   {
     "id": "acc-0394",
@@ -16421,7 +16814,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|9|1"
   },
   {
     "id": "acc-0395",
@@ -16461,7 +16855,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|10|1"
   },
   {
     "id": "acc-0396",
@@ -16501,7 +16896,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|single|11|1"
   },
   {
     "id": "acc-0397",
@@ -16543,7 +16939,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|12|1"
   },
   {
     "id": "acc-0398",
@@ -16593,7 +16990,8 @@
       "assets/answers/a0398_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|13|1"
   },
   {
     "id": "acc-0399",
@@ -16631,7 +17029,8 @@
       "assets/answers/a0399_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|14|1"
   },
   {
     "id": "acc-0400",
@@ -16671,7 +17070,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|15|1"
   },
   {
     "id": "acc-0401",
@@ -16715,7 +17115,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|16|1"
   },
   {
     "id": "acc-0402",
@@ -16757,7 +17158,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|17|1"
   },
   {
     "id": "acc-0403",
@@ -16805,7 +17207,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|18|1"
   },
   {
     "id": "acc-0404",
@@ -16847,7 +17250,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|19|1"
   },
   {
     "id": "acc-0405",
@@ -16884,7 +17288,8 @@
     "flags": [
       "选项不足",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|20|1"
   },
   {
     "id": "acc-0406",
@@ -16926,7 +17331,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|21|1"
   },
   {
     "id": "acc-0407",
@@ -16966,7 +17372,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|22|1"
   },
   {
     "id": "acc-0408",
@@ -17004,7 +17411,8 @@
       "assets/answers/a0408_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|23|1"
   },
   {
     "id": "acc-0409",
@@ -17056,7 +17464,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十三章财务报告|multiple|24|1"
   },
   {
     "id": "acc-0410",
@@ -17094,7 +17503,8 @@
       "assets/answers/a0410_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|single|1|1"
   },
   {
     "id": "acc-0411",
@@ -17132,7 +17542,8 @@
       "assets/answers/a0411_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|single|2|1"
   },
   {
     "id": "acc-0412",
@@ -17172,7 +17583,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|single|3|1"
   },
   {
     "id": "acc-0413",
@@ -17212,7 +17624,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|single|4|1"
   },
   {
     "id": "acc-0414",
@@ -17254,7 +17667,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|single|5|1"
   },
   {
     "id": "acc-0415",
@@ -17298,7 +17712,8 @@
     "matched": true,
     "flags": [
       "选择题缺答案字母"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|multiple|6|1"
   },
   {
     "id": "acc-0416",
@@ -17350,7 +17765,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计|multiple|7|1"
   },
   {
     "id": "acc-0417",
@@ -17392,7 +17808,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|8|1"
   },
   {
     "id": "acc-0418",
@@ -17446,7 +17863,8 @@
       "assets/answers/a0418_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|9|1"
   },
   {
     "id": "acc-0419",
@@ -17492,7 +17910,8 @@
       "assets/answers/a0419_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|10|1"
   },
   {
     "id": "acc-0420",
@@ -17544,7 +17963,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|11|1"
   },
   {
     "id": "acc-0421",
@@ -17586,7 +18006,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|12|1"
   },
   {
     "id": "acc-0422",
@@ -17638,7 +18059,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十四章会计政策、会计估计及其变更和差错更正|multiple|13|1"
   },
   {
     "id": "acc-0423",
@@ -17671,7 +18093,8 @@
     "flags": [
       "选项不足",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|single|1|1"
   },
   {
     "id": "acc-0424",
@@ -17711,7 +18134,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|single|2|1"
   },
   {
     "id": "acc-0425",
@@ -17751,7 +18175,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|single|3|1"
   },
   {
     "id": "acc-0426",
@@ -17793,7 +18218,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|single|4|1"
   },
   {
     "id": "acc-0427",
@@ -17833,7 +18259,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|single|5|1"
   },
   {
     "id": "acc-0428",
@@ -17873,7 +18300,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|6|1"
   },
   {
     "id": "acc-0429",
@@ -17915,7 +18343,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|7|1"
   },
   {
     "id": "acc-0430",
@@ -17955,7 +18384,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|8|1"
   },
   {
     "id": "acc-0431",
@@ -17995,7 +18425,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|9|1"
   },
   {
     "id": "acc-0432",
@@ -18039,7 +18470,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|10|1"
   },
   {
     "id": "acc-0433",
@@ -18079,7 +18511,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|11|1"
   },
   {
     "id": "acc-0434",
@@ -18123,7 +18556,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十五章资产负债表日后事项|multiple|12|1"
   },
   {
     "id": "acc-0435",
@@ -18161,7 +18595,8 @@
       "assets/answers/a0435_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|1|1"
   },
   {
     "id": "acc-0436",
@@ -18201,7 +18636,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|2|1"
   },
   {
     "id": "acc-0437",
@@ -18241,7 +18677,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|3|1"
   },
   {
     "id": "acc-0438",
@@ -18283,7 +18720,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|4|1"
   },
   {
     "id": "acc-0439",
@@ -18323,7 +18761,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|5|1"
   },
   {
     "id": "acc-0440",
@@ -18363,7 +18802,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|6|1"
   },
   {
     "id": "acc-0441",
@@ -18405,7 +18845,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|7|1"
   },
   {
     "id": "acc-0442",
@@ -18445,7 +18886,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|8|1"
   },
   {
     "id": "acc-0443",
@@ -18485,7 +18927,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|9|1"
   },
   {
     "id": "acc-0444",
@@ -18539,7 +18982,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|10|1"
   },
   {
     "id": "acc-0445",
@@ -18585,7 +19029,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|11|1"
   },
   {
     "id": "acc-0446",
@@ -18639,7 +19084,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|12|1"
   },
   {
     "id": "acc-0447",
@@ -18681,7 +19127,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|13|1"
   },
   {
     "id": "acc-0448",
@@ -18730,7 +19177,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|multiple|14|1"
   },
   {
     "id": "acc-0449",
@@ -18770,7 +19218,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|1|2"
   },
   {
     "id": "acc-0450",
@@ -18810,7 +19259,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|2|2"
   },
   {
     "id": "acc-0451",
@@ -18854,7 +19304,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十六章企业合并|single|3|2"
   },
   {
     "id": "acc-0452",
@@ -18894,7 +19345,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|4|1"
   },
   {
     "id": "acc-0453",
@@ -18934,7 +19386,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|5|1"
   },
   {
     "id": "acc-0454",
@@ -18974,7 +19427,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|6|1"
   },
   {
     "id": "acc-0455",
@@ -19014,7 +19468,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|7|1"
   },
   {
     "id": "acc-0456",
@@ -19054,7 +19509,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|8|1"
   },
   {
     "id": "acc-0457",
@@ -19096,7 +19552,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|9|1"
   },
   {
     "id": "acc-0458",
@@ -19138,7 +19595,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|10|1"
   },
   {
     "id": "acc-0459",
@@ -19178,7 +19636,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|11|1"
   },
   {
     "id": "acc-0460",
@@ -19220,7 +19679,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|single|12|1"
   },
   {
     "id": "acc-0461",
@@ -19262,7 +19722,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|13|1"
   },
   {
     "id": "acc-0462",
@@ -19302,7 +19763,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|14|1"
   },
   {
     "id": "acc-0463",
@@ -19346,7 +19808,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|15|1"
   },
   {
     "id": "acc-0464",
@@ -19392,7 +19855,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|16|1"
   },
   {
     "id": "acc-0465",
@@ -19444,7 +19908,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|17|1"
   },
   {
     "id": "acc-0466",
@@ -19484,7 +19949,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|18|1"
   },
   {
     "id": "acc-0467",
@@ -19526,7 +19992,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|19|1"
   },
   {
     "id": "acc-0468",
@@ -19566,7 +20033,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|20|1"
   },
   {
     "id": "acc-0469",
@@ -19606,7 +20074,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|21|1"
   },
   {
     "id": "acc-0470",
@@ -19650,7 +20119,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十七章合并财务报表|multiple|22|1"
   },
   {
     "id": "acc-0471",
@@ -19690,7 +20160,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|1|1"
   },
   {
     "id": "acc-0472",
@@ -19730,7 +20201,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|2|1"
   },
   {
     "id": "acc-0473",
@@ -19770,7 +20242,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|3|1"
   },
   {
     "id": "acc-0474",
@@ -19810,7 +20283,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|4|1"
   },
   {
     "id": "acc-0475",
@@ -19852,7 +20326,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|5|1"
   },
   {
     "id": "acc-0476",
@@ -19892,7 +20367,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|6|1"
   },
   {
     "id": "acc-0477",
@@ -19932,7 +20408,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|7|1"
   },
   {
     "id": "acc-0478",
@@ -19972,7 +20449,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|8|1"
   },
   {
     "id": "acc-0479",
@@ -20012,7 +20490,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|9|1"
   },
   {
     "id": "acc-0480",
@@ -20052,7 +20531,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|10|1"
   },
   {
     "id": "acc-0481",
@@ -20092,7 +20572,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|single|11|1"
   },
   {
     "id": "acc-0482",
@@ -20132,7 +20613,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|12|1"
   },
   {
     "id": "acc-0483",
@@ -20188,7 +20670,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|13|1"
   },
   {
     "id": "acc-0484",
@@ -20228,7 +20711,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|14|1"
   },
   {
     "id": "acc-0485",
@@ -20268,7 +20752,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|15|1"
   },
   {
     "id": "acc-0486",
@@ -20310,7 +20795,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|16|1"
   },
   {
     "id": "acc-0487",
@@ -20355,7 +20841,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十八章每股收益|multiple|17|1"
   },
   {
     "id": "acc-0488",
@@ -20395,7 +20882,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|1|1"
   },
   {
     "id": "acc-0489",
@@ -20435,7 +20923,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|2|1"
   },
   {
     "id": "acc-0490",
@@ -20475,7 +20964,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|3|1"
   },
   {
     "id": "acc-0491",
@@ -20517,7 +21007,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|4|1"
   },
   {
     "id": "acc-0492",
@@ -20557,7 +21048,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|5|1"
   },
   {
     "id": "acc-0493",
@@ -20617,7 +21109,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|single|6|1"
   },
   {
     "id": "acc-0494",
@@ -20659,7 +21152,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|multiple|8|1"
   },
   {
     "id": "acc-0495",
@@ -20700,7 +21194,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|multiple|9|1"
   },
   {
     "id": "acc-0496",
@@ -20740,7 +21235,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|multiple|10|1"
   },
   {
     "id": "acc-0497",
@@ -20788,7 +21284,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第二十九章公允价值计量|multiple|11|1"
   },
   {
     "id": "acc-0498",
@@ -20828,7 +21325,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|1|1"
   },
   {
     "id": "acc-0499",
@@ -20866,7 +21364,8 @@
       "assets/answers/a0499_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|2|1"
   },
   {
     "id": "acc-0500",
@@ -20907,7 +21406,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|3|1"
   },
   {
     "id": "acc-0501",
@@ -20945,7 +21445,8 @@
       "assets/answers/a0501_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|4|1"
   },
   {
     "id": "acc-0502",
@@ -20985,7 +21486,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|5|1"
   },
   {
     "id": "acc-0503",
@@ -21025,7 +21527,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|6|1"
   },
   {
     "id": "acc-0504",
@@ -21063,7 +21566,8 @@
       "assets/answers/a0504_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|7|1"
   },
   {
     "id": "acc-0505",
@@ -21105,7 +21609,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|8|1"
   },
   {
     "id": "acc-0506",
@@ -21143,7 +21648,8 @@
       "assets/answers/a0506_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|9|1"
   },
   {
     "id": "acc-0507",
@@ -21184,7 +21690,8 @@
     "matched": true,
     "flags": [
       "题目跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|10|1"
   },
   {
     "id": "acc-0508",
@@ -21222,7 +21729,8 @@
       "assets/answers/a0508_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|11|1"
   },
   {
     "id": "acc-0509",
@@ -21262,7 +21770,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|12|1"
   },
   {
     "id": "acc-0510",
@@ -21306,7 +21815,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|13|1"
   },
   {
     "id": "acc-0511",
@@ -21348,7 +21858,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|single|14|1"
   },
   {
     "id": "acc-0512",
@@ -21388,7 +21899,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|15|1"
   },
   {
     "id": "acc-0513",
@@ -21430,7 +21942,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|16|1"
   },
   {
     "id": "acc-0514",
@@ -21480,7 +21993,8 @@
       "assets/answers/a0514_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|17|1"
   },
   {
     "id": "acc-0515",
@@ -21522,7 +22036,8 @@
       "assets/answers/a0515_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|18|1"
   },
   {
     "id": "acc-0516",
@@ -21562,7 +22077,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|19|1"
   },
   {
     "id": "acc-0517",
@@ -21604,7 +22120,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|20|1"
   },
   {
     "id": "acc-0518",
@@ -21650,7 +22167,8 @@
       "assets/answers/a0518_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|21|1"
   },
   {
     "id": "acc-0519",
@@ -21712,7 +22230,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|第三十章政府及民间非营利组织会计|multiple|22|1"
   },
   {
     "id": "acc-0520",
@@ -21740,7 +22259,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|1|1"
   },
   {
     "id": "acc-0521",
@@ -21767,7 +22287,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|2|1"
   },
   {
     "id": "acc-0522",
@@ -21792,7 +22313,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|3|1"
   },
   {
     "id": "acc-0523",
@@ -21819,7 +22341,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|4|1"
   },
   {
     "id": "acc-0524",
@@ -21848,7 +22371,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|1|2"
   },
   {
     "id": "acc-0525",
@@ -21877,7 +22401,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题一股份支付|essay|2|2"
   },
   {
     "id": "acc-0526",
@@ -21905,7 +22430,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|1|1"
   },
   {
     "id": "acc-0527",
@@ -21930,7 +22456,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|2|1"
   },
   {
     "id": "acc-0528",
@@ -21955,7 +22482,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|3|1"
   },
   {
     "id": "acc-0529",
@@ -21980,7 +22508,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|4|1"
   },
   {
     "id": "acc-0530",
@@ -22008,7 +22537,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|1|2"
   },
   {
     "id": "acc-0531",
@@ -22037,7 +22567,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题二金融工具|essay|2|2"
   },
   {
     "id": "acc-0532",
@@ -22062,7 +22593,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|1|1"
   },
   {
     "id": "acc-0533",
@@ -22087,7 +22619,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|2|1"
   },
   {
     "id": "acc-0534",
@@ -22114,7 +22647,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|3|1"
   },
   {
     "id": "acc-0535",
@@ -22142,7 +22676,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|4|1"
   },
   {
     "id": "acc-0536",
@@ -22169,7 +22704,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|5|1"
   },
   {
     "id": "acc-0537",
@@ -22194,7 +22730,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|1|2"
   },
   {
     "id": "acc-0538",
@@ -22223,7 +22760,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题三租赁|essay|2|2"
   },
   {
     "id": "acc-0539",
@@ -22250,7 +22788,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|1|1"
   },
   {
     "id": "acc-0540",
@@ -22277,7 +22816,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|2|1"
   },
   {
     "id": "acc-0541",
@@ -22306,7 +22846,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|3|1"
   },
   {
     "id": "acc-0542",
@@ -22333,7 +22874,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|1|2"
   },
   {
     "id": "acc-0543",
@@ -22361,7 +22903,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|2|2"
   },
   {
     "id": "acc-0544",
@@ -22390,7 +22933,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|3|2"
   },
   {
     "id": "acc-0545",
@@ -22417,7 +22961,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|4|1"
   },
   {
     "id": "acc-0546",
@@ -22448,7 +22993,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题四收入|essay|5|1"
   },
   {
     "id": "acc-0547",
@@ -22475,7 +23021,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|1|1"
   },
   {
     "id": "acc-0548",
@@ -22503,7 +23050,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|2|1"
   },
   {
     "id": "acc-0549",
@@ -22530,7 +23078,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|1|2"
   },
   {
     "id": "acc-0550",
@@ -22559,7 +23108,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|2|2"
   },
   {
     "id": "acc-0551",
@@ -22587,7 +23137,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|3|1"
   },
   {
     "id": "acc-0552",
@@ -22617,7 +23168,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题五所得税|essay|4|1"
   },
   {
     "id": "acc-0553",
@@ -22646,7 +23198,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、|essay|1|1"
   },
   {
     "id": "acc-0554",
@@ -22671,7 +23224,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|2|1"
   },
   {
     "id": "acc-0555",
@@ -22697,7 +23251,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|3|1"
   },
   {
     "id": "acc-0556",
@@ -22725,7 +23280,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|1|1"
   },
   {
     "id": "acc-0557",
@@ -22755,7 +23311,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|2|2"
   },
   {
     "id": "acc-0558",
@@ -22782,7 +23339,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|3|2"
   },
   {
     "id": "acc-0559",
@@ -22811,7 +23369,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|4|1"
   },
   {
     "id": "acc-0560",
@@ -22838,7 +23397,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|5|1"
   },
   {
     "id": "acc-0561",
@@ -22869,7 +23429,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题六长期股权投资、企业合并、合并财务报表|essay|6|1"
   },
   {
     "id": "acc-0562",
@@ -22897,7 +23458,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|1|1"
   },
   {
     "id": "acc-0563",
@@ -22925,7 +23487,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|2|1"
   },
   {
     "id": "acc-0564",
@@ -22953,7 +23516,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|3|1"
   },
   {
     "id": "acc-0565",
@@ -22981,7 +23545,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|4|1"
   },
   {
     "id": "acc-0566",
@@ -23004,7 +23569,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|5|1"
   },
   {
     "id": "acc-0567",
@@ -23032,7 +23598,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|6|1"
   },
   {
     "id": "acc-0568",
@@ -23063,7 +23630,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|7|1"
   },
   {
     "id": "acc-0569",
@@ -23103,7 +23671,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|1|1"
   },
   {
     "id": "acc-0570",
@@ -23143,7 +23712,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|2|1"
   },
   {
     "id": "acc-0571",
@@ -23183,7 +23753,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|3|1"
   },
   {
     "id": "acc-0572",
@@ -23225,7 +23796,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|4|1"
   },
   {
     "id": "acc-0573",
@@ -23263,7 +23835,8 @@
       "assets/answers/a0573_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|5|1"
   },
   {
     "id": "acc-0574",
@@ -23303,7 +23876,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|6|1"
   },
   {
     "id": "acc-0575",
@@ -23343,7 +23917,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|7|1"
   },
   {
     "id": "acc-0576",
@@ -23385,7 +23960,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|8|1"
   },
   {
     "id": "acc-0577",
@@ -23425,7 +24001,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|9|1"
   },
   {
     "id": "acc-0578",
@@ -23465,7 +24042,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|10|1"
   },
   {
     "id": "acc-0579",
@@ -23503,7 +24081,8 @@
       "assets/answers/a0579_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|11|1"
   },
   {
     "id": "acc-0580",
@@ -23543,7 +24122,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|12|1"
   },
   {
     "id": "acc-0581",
@@ -23585,7 +24165,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|13|1"
   },
   {
     "id": "acc-0582",
@@ -23623,7 +24204,8 @@
       "assets/answers/a0582_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|1|1"
   },
   {
     "id": "acc-0583",
@@ -23663,7 +24245,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|2|1"
   },
   {
     "id": "acc-0584",
@@ -23703,7 +24286,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|3|1"
   },
   {
     "id": "acc-0585",
@@ -23743,7 +24327,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|4|1"
   },
   {
     "id": "acc-0586",
@@ -23783,7 +24368,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|5|1"
   },
   {
     "id": "acc-0587",
@@ -23821,7 +24407,8 @@
       "assets/answers/a0587_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|6|1"
   },
   {
     "id": "acc-0588",
@@ -23861,7 +24448,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|7|1"
   },
   {
     "id": "acc-0589",
@@ -23901,7 +24489,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|8|1"
   },
   {
     "id": "acc-0590",
@@ -23939,7 +24528,8 @@
       "assets/answers/a0590_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|9|1"
   },
   {
     "id": "acc-0591",
@@ -23979,7 +24569,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|10|1"
   },
   {
     "id": "acc-0592",
@@ -24017,7 +24608,8 @@
       "assets/answers/a0592_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|11|1"
   },
   {
     "id": "acc-0593",
@@ -24057,7 +24649,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|12|1"
   },
   {
     "id": "acc-0594",
@@ -24085,7 +24678,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|1|2"
   },
   {
     "id": "acc-0595",
@@ -24112,7 +24706,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|2|2"
   },
   {
     "id": "acc-0596",
@@ -24140,7 +24735,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|1|3"
   },
   {
     "id": "acc-0597",
@@ -24171,7 +24767,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|2|3"
   },
   {
     "id": "acc-0598",
@@ -24211,7 +24808,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|1|2"
   },
   {
     "id": "acc-0599",
@@ -24251,7 +24849,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|2|2"
   },
   {
     "id": "acc-0600",
@@ -24293,7 +24892,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|3|2"
   },
   {
     "id": "acc-0601",
@@ -24334,7 +24934,8 @@
     "matched": true,
     "flags": [
       "答案跨页"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|4|2"
   },
   {
     "id": "acc-0602",
@@ -24374,7 +24975,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|5|2"
   },
   {
     "id": "acc-0603",
@@ -24414,7 +25016,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|6|2"
   },
   {
     "id": "acc-0604",
@@ -24454,7 +25057,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|7|2"
   },
   {
     "id": "acc-0605",
@@ -24492,7 +25096,8 @@
       "assets/answers/a0605_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|8|2"
   },
   {
     "id": "acc-0606",
@@ -24532,7 +25137,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|9|2"
   },
   {
     "id": "acc-0607",
@@ -24572,7 +25178,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|10|2"
   },
   {
     "id": "acc-0608",
@@ -24612,7 +25219,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|11|2"
   },
   {
     "id": "acc-0609",
@@ -24652,7 +25260,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|12|2"
   },
   {
     "id": "acc-0610",
@@ -24696,7 +25305,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|single|13|2"
   },
   {
     "id": "acc-0611",
@@ -24736,7 +25346,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|1|2"
   },
   {
     "id": "acc-0612",
@@ -24776,7 +25387,8 @@
       "未匹配答案",
       "选择题缺答案字母",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|2|2"
   },
   {
     "id": "acc-0613",
@@ -24818,7 +25430,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|3|2"
   },
   {
     "id": "acc-0614",
@@ -24858,7 +25471,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|4|2"
   },
   {
     "id": "acc-0615",
@@ -24898,7 +25512,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|5|2"
   },
   {
     "id": "acc-0616",
@@ -24936,7 +25551,8 @@
       "assets/answers/a0616_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|6|2"
   },
   {
     "id": "acc-0617",
@@ -24978,7 +25594,8 @@
     "flags": [
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|7|2"
   },
   {
     "id": "acc-0618",
@@ -25018,7 +25635,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|8|2"
   },
   {
     "id": "acc-0619",
@@ -25060,7 +25678,8 @@
     "flags": [
       "题目跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|9|2"
   },
   {
     "id": "acc-0620",
@@ -25098,7 +25717,8 @@
       "assets/answers/a0620_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|10|2"
   },
   {
     "id": "acc-0621",
@@ -25136,7 +25756,8 @@
       "assets/answers/a0621_1.jpg"
     ],
     "matched": true,
-    "flags": []
+    "flags": [],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|11|2"
   },
   {
     "id": "acc-0622",
@@ -25176,7 +25797,8 @@
     "matched": true,
     "flags": [
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|multiple|12|2"
   },
   {
     "id": "acc-0623",
@@ -25204,7 +25826,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|1|4"
   },
   {
     "id": "acc-0624",
@@ -25232,7 +25855,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|2|4"
   },
   {
     "id": "acc-0625",
@@ -25260,7 +25884,8 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|1|5"
   },
   {
     "id": "acc-0626",
@@ -25289,6 +25914,7 @@
       "题目跨页",
       "答案跨页",
       "表格或公式"
-    ]
+    ],
+    "stableKey": "cpa-v1|会计|专题七跨章节综合题|essay|2|5"
   }
 ]
